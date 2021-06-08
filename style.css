@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  flex-direction: column;
+  padding: 5%;
+  background: #f6b8b8;
+  color: #3b14a7;
+  font-size: 20px;
+  font-family: 'verdana', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
